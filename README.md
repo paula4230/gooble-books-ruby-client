@@ -15,9 +15,10 @@ There are five endpoints for this client, namely:
 <ul>2. Fork or download this repo.</ul> 
 <ul>3. In your command line, <strong>cd</strong> into the repo and bundle install Faraday and OJ(optional) gems.</ul>
 <ul>4. Run the database migrations thru <strong>rake db:migrate</strong>.</ul>
+<ul>5. Start the rails server by typing <strong>bin/rails server</strong> or <strong>bin/rails s</strong>.</ul>
 <ul>  
-  5. In the <strong>client.rb</strong> file under the apps/apis/google_books/v1 directory, input your generated API key here
+  5. In the <strong>client.rb</strong> file under the apps/apis/google_books/v1 directory, input the generated API key here
   <div><img src='initialize.png'></img></div>
-
 </ul>
+<ul>6. In each of the controllers, the APIs are already contained in their respective wrappers and each of the controllers have a corresponding view file. However, views can be customized depending on the user.</ul>
   
