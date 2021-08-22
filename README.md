@@ -4,9 +4,7 @@ A Ruby client for the <a href='https://developers.google.com/books/docs/overview
   
 <h1>ENDPOINTS</h1>
 There are five endpoints for this client as follows:
-  <ul>  
-    <ol> Books - gives a list of books containing keywords from the search parameters </ol>
-  </ul>
+  <ul>1. Books - gives a list of books containing keywords from the search parameters </ul>
     
 1. Books - gives a list of books containing keywords from the search parameters
   2. Downloads - similar to #1, however, search is limited to books that can be downloaded with files that can be accessed thru an ebook reader. 
