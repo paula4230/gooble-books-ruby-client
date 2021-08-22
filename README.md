@@ -2,7 +2,7 @@
 
 A Ruby client for the <a href='https://developers.google.com/books/docs/overview'> Google Books API <a>.
   
-<h1>ENDPOINTS</h1>
+<h2>ENDPOINTS</h1>
 There are five endpoints for this client as follows:
   <ul>1. Books - gives a list of books containing keywords from the search parameters.</ul>
   <ul>2. Downloads - similar to #1, however, search is limited to books that can be downloaded with files that can be accessed thru an ebook reader.</ul>
