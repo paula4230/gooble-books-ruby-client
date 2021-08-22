@@ -17,7 +17,7 @@ There are five endpoints for this client, namely:
 <ul>4. Run the database migrations thru <strong>rake db:migrate</strong>.</ul>
 <ul>  
   5. In the <strong>client.rb</strong> file under the apps/apis/google_books/v1 directory, input your generated API key here
-  ![image](https://user-images.githubusercontent.com/75438634/130363000-87c9d3b2-8626-48a7-b20f-09a025fc1dec.png)
+  <img>initialize.png</img>
 
 </ul>
   
