@@ -14,7 +14,7 @@ There are five endpoints for this client, namely:
 <ul>1. Before anything else, <a href='https://cloud.google.com/docs/authentication/api-keys?visit_id=637652443905382742-2139937274&rd=1'> generate an API key<a></ul>
 <ul>2. Fork or download this repo. </ul> 
 <ul>3. In your command line, cd into the repo and bundle install Faraday and OJ(optional) gems.</ul>
-  <ul>4. Run the database migrations thru <h5>rake db:migrate</h5></ul>
+  <ul>4. Run the database migrations thru <strong>rake db:migrate</strong></ul>
   
 <ul>2. Generate a new rails app.</ul>
 
