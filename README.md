@@ -11,8 +11,8 @@ There are five endpoints for this client, namely:
   <ul>5. Shelf Volumes - gives the list of books from a user's bookshelf. Parameters should include bookshelf ID and shelf ID.</ul>
   
 <h2>USAGE</h2>
-<ul>1. Before anything else, <a href='https://cloud.google.com/docs/authentication/api-keys?visit_id=637652443905382742-2139937274&rd=1'> generate an API key<a></ul>
-<ul>2. Fork or download this repo. </ul> 
+<ul>1. Before anything else, <a href='https://cloud.google.com/docs/authentication/api-keys?visit_id=637652443905382742-2139937274&rd=1'> generate an API key<a>.</ul>
+<ul>2. Fork or download this repo.</ul> 
 <ul>3. In your command line, <strong>cd</strong> into the repo and bundle install Faraday and OJ(optional) gems.</ul>
-<ul>4. Run the database migrations thru <strong>rake db:migrate</strong></ul>
+<ul>4. Run the database migrations thru <strong>rake db:migrate</strong>.</ul>
   
