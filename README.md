@@ -16,11 +16,3 @@ There are five endpoints for this client, namely:
 <ul>3. In your command line, <strong>cd</strong> into the repo and bundle install Faraday and OJ(optional) gems.</ul>
 <ul>4. Run the database migrations thru <strong>rake db:migrate</strong></ul>
   
-<ul>2. Generate a new rails app.</ul>
-
-<ul>4. Create a client.rb file in the apps directory. 
-  <div> Example: apps/google_books/v1/client.rb</div
-</ul>
-<ul>1. Books - gives a list of books containing keywords from the search parameters.</ul>
-
-<h3>Tips: Try the API in the console to see if it is working correctly. </h3>
