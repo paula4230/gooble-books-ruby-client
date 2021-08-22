@@ -11,11 +11,14 @@ There are five endpoints for this client, namely:
   <ul>5. Shelf Volumes - gives the list of books from a user's bookshelf. Parameters should include bookshelf ID and shelf ID.</ul>
   
 <h2>USAGE</h2>
-<p>Before anything else, <a href='https://cloud.google.com/docs/authentication/api-keys?visit_id=637652443905382742-2139937274&rd=1'> generate an API key<a></p>
-<p>In general, user may generate an API key and fork this repo. Otherwise instructions are as follows: </p> 
+<ul>1. Before anything else, <a href='https://cloud.google.com/docs/authentication/api-keys?visit_id=637652443905382742-2139937274&rd=1'> generate an API key<a></ul>
+<ul>2. Fork or download this repo. </ul> 
+<ul>3. In your command line, cd into the repo and bundle install Faraday and OJ(optional) gems.</ul>
+  <ul>4. Run the database migrations thru <h5>rake db:migrate</h5></ul>
+  
 <ul>2. Generate a new rails app.</ul>
-<ul>3. Bundle install Faraday and OJ(optional) gems.</ul>
-<ul>4. Create a client.rb file in the apps directory. Example: apps/google_books/v1/client.rb. 
+
+<ul>4. Create a client.rb file in the apps directory. 
   <div> Example: apps/google_books/v1/client.rb</div
 </ul>
 <ul>1. Books - gives a list of books containing keywords from the search parameters.</ul>
