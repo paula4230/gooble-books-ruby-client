@@ -1,1 +1,1 @@
-# gooble-books-ruby-client
+# google-books-ruby-client
